@@ -21,5 +21,5 @@ Gem::Specification.new do |gem|
   gem.add_dependency "chicanery", "~>0.1.0"
   
   gem.add_development_dependency "rspec", "~> 2.11.0"
-  gem.add_development_dependency "rake",  "~> 10.0.2"
+  gem.add_development_dependency "rake",  "~> 13.0.6"
 end
